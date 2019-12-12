@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+
+	<category>
+    	 <pattern>^ sunil dhimal's ^ room ^</pattern>
+    	 <template>D313</template>
+    </category>
+
+    <category>
+        <pattern>^ sunil dhimal ^ room ^</pattern>
+        <template>D313</template>
+    </category>
+
+
+    <category>
+    	 <pattern>call ^ sunil dhimals ^</pattern>
+    	 <template>6009359700</template>
+    </category>
+
+   <category>
+        	<pattern>provide ^ 3rd sem notes ^</pattern>
+        	<template>https://drive.google.com/file/d/18mVSyrRIS7AAFwtRXjeqddBt6QeZ3vsC/view?usp=drivesdk</template>
+   </category>
+
+    <category>
+            <pattern>Hi</pattern>
+            <template>hello</template>
+    </category>
+
+     <category>
+           <pattern>^ 1 ^</pattern>
+           <template>
+           Breakfast:
+           <list>
+                <item>dosa</item>
+                <item>milk</item>
+                <item>tea</item>
+           </list>
+           Lunch:
+                      <list>
+                           <item>rice</item>
+                           <item>chicken</item>
+                           <item>dal</item>
+                      </list>
+           </template>
+     </category>
+     <category>
+            <pattern>^ 2 ^</pattern>
+            <template> Breakfast:
+                                 <list>
+                                      <item>dosa</item>
+                                      <item>milk</item>
+                                      <item>tea</item>
+                                 </list>
+                                 Lunch:
+                                            <list>
+                                                 <item>rice</item>
+                                                 <item>chicken</item>
+                                                 <item>dal</item>
+                                            </list></template>
+     </category>
+     <category>
+            <pattern>^ 3 ^</pattern>
+            <template> Breakfast:
+                                 <list>
+                                      <item>dosa</item>
+                                      <item>milk</item>
+                                      <item>tea</item>
+                                 </list>
+                                 Lunch:
+                                            <list>
+                                                 <item>rice</item>
+                                                 <item>chicken</item>
+                                                 <item>dal</item>
+                                            </list></template>
+      </category>
+      <category>
+            <pattern>^ 4 ^</pattern>
+            <template> Breakfast:
+                                 <list>
+                                      <item>dosa</item>
+                                      <item>milk</item>
+                                      <item>tea</item>
+                                 </list>
+                                 Lunch:
+                                            <list>
+                                                 <item>rice</item>
+                                                 <item>chicken</item>
+                                                 <item>dal</item>
+                                            </list></template>
+      </category>
+      <category>
+            <pattern>^ 5 ^</pattern>
+            <template>
+Breakfast:
+
+dosa
+milk
+tea
+
+Lunch:
+
+rice
+chicken
+dal
+            </template>
+      </category>
+      <category>
+            <pattern>^ 6 ^</pattern>
+            <template> Breakfast:
+                                 <list>
+                                      <item>dosa</item>
+                                      <item>milk</item>
+                                      <item>tea</item>
+                                 </list>
+                                 Lunch:
+                                            <list>
+                                                 <item>rice</item>
+                                                 <item>chicken</item>
+                                                 <item>dal</item>
+                                            </list></template>
+      </category>
+      <category>
+             <pattern>^ 7 ^</pattern>
+             <template> Breakfast:
+                                  <list>
+                                       <item>dosa</item>
+                                       <item>milk</item>
+                                       <item>tea</item>
+                                  </list>
+                                  Lunch:
+                                             <list>
+                                                  <item>rice</item>
+                                                  <item>chicken</item>
+                                                  <item>dal</item>
+                                             </list></template>
+      </category>
+
+
+
+	<category>
+	    <pattern>^ smit ^</pattern>
+	    <template>1997</template>
+	</category>
+
+	<category>
+	    <pattern>^ deborshi ^</pattern>
+	    <template>botfather</template>
+	</category>
+
+</aiml>
